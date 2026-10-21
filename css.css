@@ -1,5 +1,4 @@
 #indexheader {
-  padding: 20%  rgb(207, 43, 58);
   background-color: rgb(146, 143, 37);
   text-align: center;
   text-transform: uppercase;
@@ -28,14 +27,14 @@
 #indexheader {
   background: rgb(146, 143, 37);
   color: rgb(207, 43, 58);
-  border-bottom: 5p%
+  border-bottom: 5%
 }
 
 #footer {
   clear: left;
   background: rgb(56, 204, 154);
   color: rgb(146, 143, 37);
-  border-bottom: 5% solid rgb((207, 43, 58));
+  border-bottom: 5%;
 }
 
 #contents,
@@ -46,7 +45,6 @@
 
 #contents {
   padding-left: 10%;
-  border: 2% outset green;
   width: 20%;
   height: 180px;
 }
@@ -66,7 +64,6 @@
 
 
 .myDiv {
-  border: 5% outset red;
   background-color: rgb(146, 143, 37);
   text-align: center;
 }
