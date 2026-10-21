@@ -35,31 +35,11 @@
   color: rgb(146, 143, 37);
 }
 
-#contents,
-#centerbody {
-  margin: 10%;
-  float: left;
-}
-
 #contents {
   padding-left: 10%;
   width: 20%;
   height: 180px;
 }
-
-#centerbody {
-  border: 2px outset blue;
-  text-align: center;
-  width: 70%;
-  height: 180%;
-}
-
-.centerred {
-  text-align: center;
-  color: red
-}
-
-
 
 .myDiv {
   background-color: rgb(146, 143, 37);
