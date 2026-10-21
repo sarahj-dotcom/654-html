@@ -21,7 +21,6 @@ h3 {
   text-align: center;
   color: rgb(207, 43, 58);
 }
-#contents {border:2px outset rgb(207, 43, 58); text-align:left; width:20%;height:10%;}
 
 .specialclass{
   color: rgb(207, 43, 58);
@@ -50,6 +49,8 @@ h3 {
   height: 180px;
   color: rgb(207, 43, 58);
   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  text-align: center;
+  border:2px outset;
 }
 
 .myDiv {
