@@ -1,50 +1,52 @@
-#header {
-  border: 5px outset rgb(207, 43, 58);
+#indexheader {
+  padding: 20%  rgb(207, 43, 58);
   background-color: rgb(146, 143, 37);
   text-align: center;
+  text-transform: uppercase;
   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-  .centerred text-align: center;
+  text-align: center;
   color: rgb(207, 43, 58);
 }
 
-
-
-h1 {
+.myDiv{
   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-  .centerred text-align: center;
-  color: red;
+  text-align: center;
+  color: rgb(207, 43, 58);
 }
+#contents {border:2px outset rgb(207, 43, 58); text-align:left; width:20%;height:10%;}
 
-
-#header,
+.specialclass{
+  color: rgb(207, 43, 58);
+  font-family:'Courier New', Courier, monospace
+}
 #footer {
   width: 100%;
   text-align: center;
-  border-radius: 5px;
+  border-radius: 5%;
 }
 
-#header {
+#indexheader {
   background: rgb(146, 143, 37);
   color: rgb(207, 43, 58);
-  border-bottom: 5px
+  border-bottom: 5p%
 }
 
 #footer {
   clear: left;
   background: rgb(56, 204, 154);
   color: rgb(146, 143, 37);
-  border-bottom: 5px solid rgb((207, 43, 58));
+  border-bottom: 5% solid rgb((207, 43, 58));
 }
 
 #contents,
 #centerbody {
-  margin: 10px;
+  margin: 10%;
   float: left;
 }
 
 #contents {
-  padding-left: 10px;
-  border: 2px outset green;
+  padding-left: 10%;
+  border: 2% outset green;
   width: 20%;
   height: 180px;
 }
@@ -53,7 +55,7 @@ h1 {
   border: 2px outset blue;
   text-align: center;
   width: 70%;
-  height: 180px;
+  height: 180%;
 }
 
 .centerred {
@@ -61,12 +63,10 @@ h1 {
   color: red
 }
 
-.specialclass {
-  background-color: rgb(146, 143, 37);
-}
+
 
 .myDiv {
-  border: 5px outset red;
+  border: 5% outset red;
   background-color: rgb(146, 143, 37);
   text-align: center;
 }
