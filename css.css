@@ -27,14 +27,12 @@
 #indexheader {
   background: rgb(146, 143, 37);
   color: rgb(207, 43, 58);
-  border-bottom: 5%
 }
 
 #footer {
   clear: left;
   background: rgb(56, 204, 154);
   color: rgb(146, 143, 37);
-  border-bottom: 5%;
 }
 
 #contents,
