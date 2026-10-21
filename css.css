@@ -6,6 +6,9 @@
   text-align: center;
   color: rgb(207, 43, 58);
 }
+p{
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
 
 .myDiv{
   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
