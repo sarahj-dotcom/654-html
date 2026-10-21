@@ -1,0 +1,76 @@
+#header {
+  border: 5px outset rgb(207, 43, 58);
+  background-color: rgb(146, 143, 37);
+  text-align: center;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  .centerred text-align: center;
+  color: rgb(207, 43, 58);
+}
+
+
+
+h1 {
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  .centerred text-align: center;
+  color: red;
+}
+
+
+#header,
+#footer {
+  width: 100%;
+  text-align: center;
+  border-radius: 5px;
+}
+
+#header {
+  background: rgb(146, 143, 37);
+  color: rgb(207, 43, 58);
+  border-bottom: 5px
+}
+
+#footer {
+  clear: left;
+  background: rgb(56, 204, 154);
+  color: rgb(146, 143, 37);
+  border-bottom: 5px solid rgb((207, 43, 58));
+}
+
+#contents,
+#centerbody {
+  margin: 10px;
+  float: left;
+}
+
+#contents {
+  padding-left: 10px;
+  border: 2px outset green;
+  width: 20%;
+  height: 180px;
+}
+
+#centerbody {
+  border: 2px outset blue;
+  text-align: center;
+  width: 70%;
+  height: 180px;
+}
+
+.centerred {
+  text-align: center;
+  color: red
+}
+
+.specialclass {
+  background-color: rgb(146, 143, 37);
+}
+
+.myDiv {
+  border: 5px outset red;
+  background-color: rgb(146, 143, 37);
+  text-align: center;
+}
+
+body {
+  background-color: rgb(180, 221, 235);
+}
